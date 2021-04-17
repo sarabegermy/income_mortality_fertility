@@ -1,5 +1,8 @@
 # income_mortality_fertility
-This document explores three data sets:
+Language: Python
+using jupyter notebook
+
+This project explores three data sets:
 
 1) The fertiltiy rate: The average number of children per woman in each country since 1880 until now (the end of year 2020)
 
